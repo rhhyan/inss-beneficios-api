@@ -50,10 +50,6 @@ Sistema comercial para consulta de benefícios do INSS via API oficial do **Gov.
 ✅ Verificação de indeferimentos e motivos  
 ✅ Relatórios detalhados sobre status dos benefícios  
 
-## 🛠 Próximos Passos
-- [ ] Criar o front-end para exibição dos dados
-- [ ] Melhorar segurança e armazenamento dos tokens
-- [ ] Implementar banco de dados para salvar consultas
 
 ## 📄 Licença
 Este projeto está sob a licença [Adicionar Licença].
