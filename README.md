@@ -6,8 +6,8 @@ Sistema comercial para consulta de benefícios do INSS via API oficial do **Gov.
 - **Back-end**: Python, Flask
 - **Autenticação**: OAuth2 via Gov.br
 - **API**: Integração com Gov.br para consulta de benefícios
-- **Banco de Dados**: [Adicionar se necessário]
-- **Front-end**: [Adicionar a tecnologia escolhida]
+- **Banco de Dados**: 
+- **Front-end**: 
 
 ## 📥 Instalação
 1. Clone este repositório:
@@ -49,9 +49,3 @@ Sistema comercial para consulta de benefícios do INSS via API oficial do **Gov.
 ✅ Consulta de benefícios ativos do INSS  
 ✅ Verificação de indeferimentos e motivos  
 ✅ Relatórios detalhados sobre status dos benefícios  
-
-
-## 📄 Licença
-Este projeto está sob a licença [Adicionar Licença].
-
-
